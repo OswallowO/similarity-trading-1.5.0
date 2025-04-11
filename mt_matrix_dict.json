@@ -1,0 +1,1502 @@
+{
+    "散熱": [
+        {
+            "stock1": "3017",
+            "stock2": "3324",
+            "similarity_score": 0.7649274371591717,
+            "group": "散熱"
+        },
+        {
+            "stock1": "6125",
+            "stock2": "3324",
+            "similarity_score": 0.6065981786016647,
+            "group": "散熱"
+        },
+        {
+            "stock1": "6125",
+            "stock2": "3017",
+            "similarity_score": 0.599195377391912,
+            "group": "散熱"
+        },
+        {
+            "stock1": "3338",
+            "stock2": "6230",
+            "similarity_score": 0.5858680152289162,
+            "group": "散熱"
+        },
+        {
+            "stock1": "3017",
+            "stock2": "6230",
+            "similarity_score": 0.5812392387440785,
+            "group": "散熱"
+        },
+        {
+            "stock1": "3338",
+            "stock2": "3017",
+            "similarity_score": 0.5807558775583863,
+            "group": "散熱"
+        },
+        {
+            "stock1": "6125",
+            "stock2": "3338",
+            "similarity_score": 0.5756595504659232,
+            "group": "散熱"
+        },
+        {
+            "stock1": "3324",
+            "stock2": "6230",
+            "similarity_score": 0.542375437345569,
+            "group": "散熱"
+        },
+        {
+            "stock1": "6125",
+            "stock2": "6230",
+            "similarity_score": 0.5388129135049537,
+            "group": "散熱"
+        },
+        {
+            "stock1": "3338",
+            "stock2": "3324",
+            "similarity_score": 0.5300906861450406,
+            "group": "散熱"
+        }
+    ],
+    "化學": [
+        {
+            "stock1": "1727",
+            "stock2": "4755",
+            "similarity_score": 0.5555454450625448,
+            "group": "化學"
+        },
+        {
+            "stock1": "1711",
+            "stock2": "1721",
+            "similarity_score": 0.5139562924653776,
+            "group": "化學"
+        },
+        {
+            "stock1": "1727",
+            "stock2": "1721",
+            "similarity_score": 0.508085915587665,
+            "group": "化學"
+        },
+        {
+            "stock1": "1727",
+            "stock2": "1711",
+            "similarity_score": 0.5020956486654101,
+            "group": "化學"
+        },
+        {
+            "stock1": "4755",
+            "stock2": "1721",
+            "similarity_score": 0.4878076594153411,
+            "group": "化學"
+        },
+        {
+            "stock1": "1711",
+            "stock2": "4755",
+            "similarity_score": 0.48626960121295865,
+            "group": "化學"
+        }
+    ],
+    "電腦": [
+        {
+            "stock1": "5386",
+            "stock2": "6150",
+            "similarity_score": 0.6165415953820123,
+            "group": "電腦"
+        },
+        {
+            "stock1": "5386",
+            "stock2": "3231",
+            "similarity_score": 0.5463342091715294,
+            "group": "電腦"
+        },
+        {
+            "stock1": "6150",
+            "stock2": "3231",
+            "similarity_score": 0.5314232867991875,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2377",
+            "stock2": "3231",
+            "similarity_score": 0.5092632725325988,
+            "group": "電腦"
+        },
+        {
+            "stock1": "5386",
+            "stock2": "2399",
+            "similarity_score": 0.5089043632018877,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2399",
+            "stock2": "6150",
+            "similarity_score": 0.5051463167649449,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2399",
+            "stock2": "2465",
+            "similarity_score": 0.49851615832252544,
+            "group": "電腦"
+        },
+        {
+            "stock1": "6150",
+            "stock2": "3515",
+            "similarity_score": 0.4929280680783753,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2399",
+            "stock2": "3231",
+            "similarity_score": 0.485789502157889,
+            "group": "電腦"
+        },
+        {
+            "stock1": "5386",
+            "stock2": "2377",
+            "similarity_score": 0.46292730213487077,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2465",
+            "stock2": "3515",
+            "similarity_score": 0.4615523648971538,
+            "group": "電腦"
+        },
+        {
+            "stock1": "5386",
+            "stock2": "3515",
+            "similarity_score": 0.45821848136532434,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2399",
+            "stock2": "3515",
+            "similarity_score": 0.4524486496665622,
+            "group": "電腦"
+        },
+        {
+            "stock1": "6150",
+            "stock2": "2377",
+            "similarity_score": 0.44845926848776146,
+            "group": "電腦"
+        },
+        {
+            "stock1": "3515",
+            "stock2": "2376",
+            "similarity_score": 0.44734233574870436,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2465",
+            "stock2": "6150",
+            "similarity_score": 0.44691490356139424,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2465",
+            "stock2": "3231",
+            "similarity_score": 0.44667615610141964,
+            "group": "電腦"
+        },
+        {
+            "stock1": "5386",
+            "stock2": "2465",
+            "similarity_score": 0.44391162383685717,
+            "group": "電腦"
+        },
+        {
+            "stock1": "6150",
+            "stock2": "2376",
+            "similarity_score": 0.42479641252482325,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2425",
+            "stock2": "3515",
+            "similarity_score": 0.416480872541167,
+            "group": "電腦"
+        },
+        {
+            "stock1": "3515",
+            "stock2": "3231",
+            "similarity_score": 0.4140817696423206,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2376",
+            "stock2": "3231",
+            "similarity_score": 0.4092259286738201,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2399",
+            "stock2": "2377",
+            "similarity_score": 0.4066484026209954,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2465",
+            "stock2": "2376",
+            "similarity_score": 0.4043708113658751,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2465",
+            "stock2": "2377",
+            "similarity_score": 0.40098140332186955,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2425",
+            "stock2": "2376",
+            "similarity_score": 0.392186334157638,
+            "group": "電腦"
+        },
+        {
+            "stock1": "5386",
+            "stock2": "2376",
+            "similarity_score": 0.385693368332573,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2399",
+            "stock2": "2376",
+            "similarity_score": 0.3753333887596088,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2377",
+            "stock2": "2376",
+            "similarity_score": 0.375279068641908,
+            "group": "電腦"
+        },
+        {
+            "stock1": "3515",
+            "stock2": "2377",
+            "similarity_score": 0.3750731950001628,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2425",
+            "stock2": "2465",
+            "similarity_score": 0.3575304958397567,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2425",
+            "stock2": "6150",
+            "similarity_score": 0.3494772414847364,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2425",
+            "stock2": "2399",
+            "similarity_score": 0.3482975503010519,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2425",
+            "stock2": "5386",
+            "similarity_score": 0.3295892510240923,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2425",
+            "stock2": "3231",
+            "similarity_score": 0.31144424010527166,
+            "group": "電腦"
+        },
+        {
+            "stock1": "2425",
+            "stock2": "2377",
+            "similarity_score": 0.30126545663650967,
+            "group": "電腦"
+        }
+    ],
+    "機器人": [
+        {
+            "stock1": "2359",
+            "stock2": "2365",
+            "similarity_score": 0.7145852094240529,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "1597",
+            "similarity_score": 0.7032750793390231,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2365",
+            "stock2": "6188",
+            "similarity_score": 0.6858047896525903,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2365",
+            "stock2": "2374",
+            "similarity_score": 0.6848258073122905,
+            "group": "機器人"
+        },
+        {
+            "stock1": "1597",
+            "stock2": "2365",
+            "similarity_score": 0.6825707105899365,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2359",
+            "stock2": "6188",
+            "similarity_score": 0.6731754135924405,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "2374",
+            "similarity_score": 0.6720973924209994,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "8374",
+            "similarity_score": 0.6710444994222021,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8374",
+            "stock2": "2374",
+            "similarity_score": 0.6686974573470613,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "2365",
+            "similarity_score": 0.668090112853908,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8374",
+            "stock2": "2365",
+            "similarity_score": 0.6576136694599546,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "2374",
+            "similarity_score": 0.6561447067356291,
+            "group": "機器人"
+        },
+        {
+            "stock1": "1597",
+            "stock2": "2374",
+            "similarity_score": 0.6536462633795532,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8374",
+            "stock2": "6188",
+            "similarity_score": 0.6525810813293814,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8374",
+            "stock2": "2359",
+            "similarity_score": 0.6463126500219404,
+            "group": "機器人"
+        },
+        {
+            "stock1": "1597",
+            "stock2": "2359",
+            "similarity_score": 0.6445895530853546,
+            "group": "機器人"
+        },
+        {
+            "stock1": "6188",
+            "stock2": "5392",
+            "similarity_score": 0.6442004513373427,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2374",
+            "stock2": "6188",
+            "similarity_score": 0.6441925840854476,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "2365",
+            "similarity_score": 0.6414613551888478,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "4562",
+            "similarity_score": 0.6367512665335003,
+            "group": "機器人"
+        },
+        {
+            "stock1": "1597",
+            "stock2": "8071",
+            "similarity_score": 0.6293309326911561,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "6188",
+            "similarity_score": 0.6267265574892802,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "8374",
+            "similarity_score": 0.626477793943338,
+            "group": "機器人"
+        },
+        {
+            "stock1": "1597",
+            "stock2": "8374",
+            "similarity_score": 0.6262312227943921,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "2359",
+            "similarity_score": 0.6248104310853794,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2359",
+            "stock2": "2374",
+            "similarity_score": 0.6247529192864034,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "2359",
+            "similarity_score": 0.6163696982780447,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8374",
+            "stock2": "6215",
+            "similarity_score": 0.6162874372819037,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2359",
+            "stock2": "8071",
+            "similarity_score": 0.6141639799154808,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "6188",
+            "similarity_score": 0.6129707937652489,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "1597",
+            "similarity_score": 0.6123971231489324,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2359",
+            "stock2": "5392",
+            "similarity_score": 0.6122938690002856,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2365",
+            "stock2": "5392",
+            "similarity_score": 0.6121992279155377,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8374",
+            "stock2": "5392",
+            "similarity_score": 0.6081638046064408,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "5392",
+            "similarity_score": 0.6070649088514897,
+            "group": "機器人"
+        },
+        {
+            "stock1": "1597",
+            "stock2": "6188",
+            "similarity_score": 0.6040160954520941,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "6215",
+            "similarity_score": 0.597312670628753,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2365",
+            "stock2": "8071",
+            "similarity_score": 0.5973074309429215,
+            "group": "機器人"
+        },
+        {
+            "stock1": "6215",
+            "stock2": "5392",
+            "similarity_score": 0.5900098540339239,
+            "group": "機器人"
+        },
+        {
+            "stock1": "6215",
+            "stock2": "6188",
+            "similarity_score": 0.5818409748709293,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2374",
+            "stock2": "5392",
+            "similarity_score": 0.5816162492425225,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "8071",
+            "similarity_score": 0.5761039067127742,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8374",
+            "stock2": "8234",
+            "similarity_score": 0.5734097107596612,
+            "group": "機器人"
+        },
+        {
+            "stock1": "6215",
+            "stock2": "2374",
+            "similarity_score": 0.5715525481210656,
+            "group": "機器人"
+        },
+        {
+            "stock1": "6188",
+            "stock2": "8071",
+            "similarity_score": 0.5681308450775002,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2359",
+            "stock2": "6215",
+            "similarity_score": 0.5679260902528092,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2365",
+            "stock2": "6215",
+            "similarity_score": 0.5657610996004818,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "8234",
+            "similarity_score": 0.557369326098309,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2374",
+            "stock2": "8071",
+            "similarity_score": 0.5536316303432404,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8374",
+            "stock2": "8071",
+            "similarity_score": 0.5447350913567319,
+            "group": "機器人"
+        },
+        {
+            "stock1": "4562",
+            "stock2": "8071",
+            "similarity_score": 0.5366187533504901,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2374",
+            "stock2": "8234",
+            "similarity_score": 0.5355071240088308,
+            "group": "機器人"
+        },
+        {
+            "stock1": "1597",
+            "stock2": "5392",
+            "similarity_score": 0.5325713760055587,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "5392",
+            "similarity_score": 0.5318520883231236,
+            "group": "機器人"
+        },
+        {
+            "stock1": "6215",
+            "stock2": "8234",
+            "similarity_score": 0.5299987606847998,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2365",
+            "stock2": "8234",
+            "similarity_score": 0.5299886876872374,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "6215",
+            "similarity_score": 0.5287520767407314,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2359",
+            "stock2": "8234",
+            "similarity_score": 0.5282970013624815,
+            "group": "機器人"
+        },
+        {
+            "stock1": "5392",
+            "stock2": "8234",
+            "similarity_score": 0.5232244019684822,
+            "group": "機器人"
+        },
+        {
+            "stock1": "6188",
+            "stock2": "8234",
+            "similarity_score": 0.5188003649887563,
+            "group": "機器人"
+        },
+        {
+            "stock1": "1597",
+            "stock2": "8234",
+            "similarity_score": 0.5178054865741477,
+            "group": "機器人"
+        },
+        {
+            "stock1": "2464",
+            "stock2": "8234",
+            "similarity_score": 0.5166739297809563,
+            "group": "機器人"
+        },
+        {
+            "stock1": "1597",
+            "stock2": "6215",
+            "similarity_score": 0.5166057238097913,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8071",
+            "stock2": "5392",
+            "similarity_score": 0.5011204290109211,
+            "group": "機器人"
+        },
+        {
+            "stock1": "8071",
+            "stock2": "8234",
+            "similarity_score": 0.48249378682646243,
+            "group": "機器人"
+        },
+        {
+            "stock1": "6215",
+            "stock2": "8071",
+            "similarity_score": 0.46458991283596174,
+            "group": "機器人"
+        }
+    ],
+    "矽光": [
+        {
+            "stock1": "3163",
+            "stock2": "4979",
+            "similarity_score": 0.6881229328348973,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4979",
+            "stock2": "6451",
+            "similarity_score": 0.6657340036992944,
+            "group": "矽光"
+        },
+        {
+            "stock1": "6530",
+            "stock2": "6451",
+            "similarity_score": 0.6542124880749242,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3163",
+            "stock2": "4908",
+            "similarity_score": 0.6423731584268801,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3163",
+            "stock2": "6451",
+            "similarity_score": 0.6420753577087465,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4979",
+            "stock2": "6530",
+            "similarity_score": 0.6344246868219944,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4908",
+            "stock2": "6530",
+            "similarity_score": 0.631095787895975,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3163",
+            "stock2": "6530",
+            "similarity_score": 0.630124812196694,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4908",
+            "stock2": "6451",
+            "similarity_score": 0.6212684490703235,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4979",
+            "stock2": "4908",
+            "similarity_score": 0.610507885322922,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3025",
+            "stock2": "6451",
+            "similarity_score": 0.5919961309910333,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3025",
+            "stock2": "4979",
+            "similarity_score": 0.5778379796679858,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3025",
+            "stock2": "6530",
+            "similarity_score": 0.569359905160576,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3163",
+            "stock2": "3025",
+            "similarity_score": 0.5565344490580932,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3450",
+            "stock2": "6530",
+            "similarity_score": 0.5458574151809107,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3163",
+            "stock2": "3450",
+            "similarity_score": 0.5413200757996217,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3025",
+            "stock2": "4908",
+            "similarity_score": 0.5388368998093572,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3450",
+            "stock2": "6442",
+            "similarity_score": 0.5364442272654785,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4979",
+            "stock2": "3450",
+            "similarity_score": 0.5357602072025986,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3450",
+            "stock2": "6451",
+            "similarity_score": 0.5169838972592665,
+            "group": "矽光"
+        },
+        {
+            "stock1": "6530",
+            "stock2": "6442",
+            "similarity_score": 0.5049958758943806,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4979",
+            "stock2": "6442",
+            "similarity_score": 0.5023921854410583,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3025",
+            "stock2": "6442",
+            "similarity_score": 0.5020874150704878,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3025",
+            "stock2": "3450",
+            "similarity_score": 0.49632037338273644,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3163",
+            "stock2": "6442",
+            "similarity_score": 0.4923768732792973,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4908",
+            "stock2": "3450",
+            "similarity_score": 0.4888382984879866,
+            "group": "矽光"
+        },
+        {
+            "stock1": "6451",
+            "stock2": "6442",
+            "similarity_score": 0.4775676086845893,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4908",
+            "stock2": "6442",
+            "similarity_score": 0.43877783577018065,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3363",
+            "stock2": "6442",
+            "similarity_score": 0.3914705354701217,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3025",
+            "stock2": "3363",
+            "similarity_score": 0.3730759145265921,
+            "group": "矽光"
+        },
+        {
+            "stock1": "6530",
+            "stock2": "3363",
+            "similarity_score": 0.36811601626663615,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3363",
+            "stock2": "6451",
+            "similarity_score": 0.3640526564651375,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3450",
+            "stock2": "3363",
+            "similarity_score": 0.3623790502523802,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4979",
+            "stock2": "3363",
+            "similarity_score": 0.3591762707456272,
+            "group": "矽光"
+        },
+        {
+            "stock1": "3163",
+            "stock2": "3363",
+            "similarity_score": 0.35538612198233893,
+            "group": "矽光"
+        },
+        {
+            "stock1": "4908",
+            "stock2": "3363",
+            "similarity_score": 0.350458410336182,
+            "group": "矽光"
+        }
+    ],
+    "科科": [
+        {
+            "stock1": "3535",
+            "stock2": "8064",
+            "similarity_score": 0.6474629314090302,
+            "group": "科科"
+        },
+        {
+            "stock1": "3535",
+            "stock2": "3580",
+            "similarity_score": 0.6317015292787105,
+            "group": "科科"
+        },
+        {
+            "stock1": "3580",
+            "stock2": "3663",
+            "similarity_score": 0.6029869632678418,
+            "group": "科科"
+        },
+        {
+            "stock1": "3535",
+            "stock2": "3663",
+            "similarity_score": 0.5982523878572016,
+            "group": "科科"
+        },
+        {
+            "stock1": "3580",
+            "stock2": "8064",
+            "similarity_score": 0.587443440033453,
+            "group": "科科"
+        },
+        {
+            "stock1": "3663",
+            "stock2": "8064",
+            "similarity_score": 0.576864470500702,
+            "group": "科科"
+        }
+    ],
+    "均均": [
+        {
+            "stock1": "5443",
+            "stock2": "8028",
+            "similarity_score": 0.6003789918541594,
+            "group": "均均"
+        },
+        {
+            "stock1": "5443",
+            "stock2": "6640",
+            "similarity_score": 0.5667083547168597,
+            "group": "均均"
+        },
+        {
+            "stock1": "2467",
+            "stock2": "8028",
+            "similarity_score": 0.5612739207893572,
+            "group": "均均"
+        },
+        {
+            "stock1": "2467",
+            "stock2": "6640",
+            "similarity_score": 0.5485548978550273,
+            "group": "均均"
+        },
+        {
+            "stock1": "5443",
+            "stock2": "2467",
+            "similarity_score": 0.5319013492402724,
+            "group": "均均"
+        },
+        {
+            "stock1": "6640",
+            "stock2": "8028",
+            "similarity_score": 0.5292692663369178,
+            "group": "均均"
+        }
+    ],
+    "神盾": [
+        {
+            "stock1": "8054",
+            "stock2": "6462",
+            "similarity_score": 0.6614152878003206,
+            "group": "神盾"
+        },
+        {
+            "stock1": "6695",
+            "stock2": "8054",
+            "similarity_score": 0.606894187847614,
+            "group": "神盾"
+        },
+        {
+            "stock1": "8054",
+            "stock2": "6243",
+            "similarity_score": 0.5975880451759701,
+            "group": "神盾"
+        },
+        {
+            "stock1": "6695",
+            "stock2": "6243",
+            "similarity_score": 0.5809776068003346,
+            "group": "神盾"
+        },
+        {
+            "stock1": "6462",
+            "stock2": "6243",
+            "similarity_score": 0.5757939341386519,
+            "group": "神盾"
+        },
+        {
+            "stock1": "6695",
+            "stock2": "6462",
+            "similarity_score": 0.5658309576290436,
+            "group": "神盾"
+        },
+        {
+            "stock1": "6684",
+            "stock2": "6243",
+            "similarity_score": 0.5246845911635081,
+            "group": "神盾"
+        },
+        {
+            "stock1": "6684",
+            "stock2": "6462",
+            "similarity_score": 0.5129720432815711,
+            "group": "神盾"
+        },
+        {
+            "stock1": "6684",
+            "stock2": "8054",
+            "similarity_score": 0.5128689871862149,
+            "group": "神盾"
+        },
+        {
+            "stock1": "6695",
+            "stock2": "6684",
+            "similarity_score": 0.49544566392439326,
+            "group": "神盾"
+        }
+    ],
+    "能源": [
+        {
+            "stock1": "8104",
+            "stock2": "6806",
+            "similarity_score": 0.6471049494357334,
+            "group": "能源"
+        },
+        {
+            "stock1": "8104",
+            "stock2": "3050",
+            "similarity_score": 0.6370922913159139,
+            "group": "能源"
+        },
+        {
+            "stock1": "8104",
+            "stock2": "6869",
+            "similarity_score": 0.6020082822032673,
+            "group": "能源"
+        },
+        {
+            "stock1": "6869",
+            "stock2": "6806",
+            "similarity_score": 0.5927194361448546,
+            "group": "能源"
+        },
+        {
+            "stock1": "3050",
+            "stock2": "6806",
+            "similarity_score": 0.5683834451838597,
+            "group": "能源"
+        },
+        {
+            "stock1": "3050",
+            "stock2": "6869",
+            "similarity_score": 0.5544499531885392,
+            "group": "能源"
+        },
+        {
+            "stock1": "2349",
+            "stock2": "6806",
+            "similarity_score": 0.5327351969604336,
+            "group": "能源"
+        },
+        {
+            "stock1": "2349",
+            "stock2": "6869",
+            "similarity_score": 0.5166681151889261,
+            "group": "能源"
+        },
+        {
+            "stock1": "2349",
+            "stock2": "8104",
+            "similarity_score": 0.48138160135913743,
+            "group": "能源"
+        },
+        {
+            "stock1": "3073",
+            "stock2": "6869",
+            "similarity_score": 0.4701435375366194,
+            "group": "能源"
+        },
+        {
+            "stock1": "2349",
+            "stock2": "3050",
+            "similarity_score": 0.4508253826350604,
+            "group": "能源"
+        },
+        {
+            "stock1": "3073",
+            "stock2": "3050",
+            "similarity_score": 0.4460537759494712,
+            "group": "能源"
+        },
+        {
+            "stock1": "3073",
+            "stock2": "6806",
+            "similarity_score": 0.4415160083942667,
+            "group": "能源"
+        },
+        {
+            "stock1": "3073",
+            "stock2": "8104",
+            "similarity_score": 0.44042168257653347,
+            "group": "能源"
+        },
+        {
+            "stock1": "2349",
+            "stock2": "8440",
+            "similarity_score": 0.41221357875608006,
+            "group": "能源"
+        },
+        {
+            "stock1": "6806",
+            "stock2": "8440",
+            "similarity_score": 0.39873744824569746,
+            "group": "能源"
+        },
+        {
+            "stock1": "3073",
+            "stock2": "2349",
+            "similarity_score": 0.39849493052840873,
+            "group": "能源"
+        },
+        {
+            "stock1": "8104",
+            "stock2": "8440",
+            "similarity_score": 0.3731280584805657,
+            "group": "能源"
+        },
+        {
+            "stock1": "6869",
+            "stock2": "8440",
+            "similarity_score": 0.3682725812904166,
+            "group": "能源"
+        },
+        {
+            "stock1": "3073",
+            "stock2": "8440",
+            "similarity_score": 0.34973624128025466,
+            "group": "能源"
+        },
+        {
+            "stock1": "3050",
+            "stock2": "8440",
+            "similarity_score": 0.3419804088326363,
+            "group": "能源"
+        }
+    ],
+    "航運": [
+        {
+            "stock1": "2615",
+            "stock2": "2606",
+            "similarity_score": 0.6620411398049325,
+            "group": "航運"
+        },
+        {
+            "stock1": "2615",
+            "stock2": "2605",
+            "similarity_score": 0.6062826395656832,
+            "group": "航運"
+        },
+        {
+            "stock1": "2606",
+            "stock2": "5608",
+            "similarity_score": 0.5838598930317596,
+            "group": "航運"
+        },
+        {
+            "stock1": "2606",
+            "stock2": "2605",
+            "similarity_score": 0.579345832380249,
+            "group": "航運"
+        },
+        {
+            "stock1": "2615",
+            "stock2": "5608",
+            "similarity_score": 0.5719236680532159,
+            "group": "航運"
+        },
+        {
+            "stock1": "5608",
+            "stock2": "2605",
+            "similarity_score": 0.5339925781835868,
+            "group": "航運"
+        },
+        {
+            "stock1": "2615",
+            "stock2": "2603",
+            "similarity_score": 0.5264737388392023,
+            "group": "航運"
+        },
+        {
+            "stock1": "2603",
+            "stock2": "2606",
+            "similarity_score": 0.5180542107807171,
+            "group": "航運"
+        },
+        {
+            "stock1": "2612",
+            "stock2": "5608",
+            "similarity_score": 0.501811795716113,
+            "group": "航運"
+        },
+        {
+            "stock1": "2637",
+            "stock2": "2605",
+            "similarity_score": 0.49310285209851246,
+            "group": "航運"
+        },
+        {
+            "stock1": "2603",
+            "stock2": "2605",
+            "similarity_score": 0.48142622187211126,
+            "group": "航運"
+        },
+        {
+            "stock1": "2615",
+            "stock2": "2637",
+            "similarity_score": 0.4754972153824069,
+            "group": "航運"
+        },
+        {
+            "stock1": "2637",
+            "stock2": "2606",
+            "similarity_score": 0.47355573325198863,
+            "group": "航運"
+        },
+        {
+            "stock1": "2615",
+            "stock2": "2612",
+            "similarity_score": 0.45555672233778427,
+            "group": "航運"
+        },
+        {
+            "stock1": "2603",
+            "stock2": "2637",
+            "similarity_score": 0.4507041935721766,
+            "group": "航運"
+        },
+        {
+            "stock1": "2603",
+            "stock2": "5608",
+            "similarity_score": 0.448799004409973,
+            "group": "航運"
+        },
+        {
+            "stock1": "2613",
+            "stock2": "2637",
+            "similarity_score": 0.44576430283333224,
+            "group": "航運"
+        },
+        {
+            "stock1": "2603",
+            "stock2": "2609",
+            "similarity_score": 0.43858828972783553,
+            "group": "航運"
+        },
+        {
+            "stock1": "2613",
+            "stock2": "2605",
+            "similarity_score": 0.43835325489410026,
+            "group": "航運"
+        },
+        {
+            "stock1": "2612",
+            "stock2": "2606",
+            "similarity_score": 0.43815907375977997,
+            "group": "航運"
+        },
+        {
+            "stock1": "2637",
+            "stock2": "5608",
+            "similarity_score": 0.42948982288126525,
+            "group": "航運"
+        },
+        {
+            "stock1": "2612",
+            "stock2": "2605",
+            "similarity_score": 0.420408421017504,
+            "group": "航運"
+        },
+        {
+            "stock1": "2615",
+            "stock2": "2609",
+            "similarity_score": 0.39837288174059404,
+            "group": "航運"
+        },
+        {
+            "stock1": "2609",
+            "stock2": "2605",
+            "similarity_score": 0.3977306858219133,
+            "group": "航運"
+        },
+        {
+            "stock1": "2613",
+            "stock2": "2606",
+            "similarity_score": 0.3936613029067273,
+            "group": "航運"
+        },
+        {
+            "stock1": "2609",
+            "stock2": "2606",
+            "similarity_score": 0.39149932230111334,
+            "group": "航運"
+        },
+        {
+            "stock1": "2615",
+            "stock2": "2613",
+            "similarity_score": 0.38680259000284556,
+            "group": "航運"
+        },
+        {
+            "stock1": "2609",
+            "stock2": "5608",
+            "similarity_score": 0.3850545338565148,
+            "group": "航運"
+        },
+        {
+            "stock1": "2609",
+            "stock2": "2637",
+            "similarity_score": 0.3848442402917243,
+            "group": "航運"
+        },
+        {
+            "stock1": "2603",
+            "stock2": "2612",
+            "similarity_score": 0.3786790974597379,
+            "group": "航運"
+        },
+        {
+            "stock1": "2603",
+            "stock2": "2613",
+            "similarity_score": 0.3716833602361156,
+            "group": "航運"
+        },
+        {
+            "stock1": "2609",
+            "stock2": "2612",
+            "similarity_score": 0.37007773084754525,
+            "group": "航運"
+        },
+        {
+            "stock1": "2613",
+            "stock2": "5608",
+            "similarity_score": 0.3639969123330593,
+            "group": "航運"
+        },
+        {
+            "stock1": "2612",
+            "stock2": "2637",
+            "similarity_score": 0.36149731204882973,
+            "group": "航運"
+        },
+        {
+            "stock1": "2609",
+            "stock2": "2613",
+            "similarity_score": 0.3348510729253006,
+            "group": "航運"
+        },
+        {
+            "stock1": "2613",
+            "stock2": "2612",
+            "similarity_score": 0.3216345361402478,
+            "group": "航運"
+        }
+    ],
+    "光光": [
+        {
+            "stock1": "8249",
+            "stock2": "5438",
+            "similarity_score": 0.5542246534336582,
+            "group": "光光"
+        },
+        {
+            "stock1": "8032",
+            "stock2": "5438",
+            "similarity_score": 0.5476386588479584,
+            "group": "光光"
+        },
+        {
+            "stock1": "8249",
+            "stock2": "8032",
+            "similarity_score": 0.51265102352006,
+            "group": "光光"
+        }
+    ],
+    "軍工": [
+        {
+            "stock1": "2634",
+            "stock2": "6753",
+            "similarity_score": 0.6965916564656283,
+            "group": "軍工"
+        },
+        {
+            "stock1": "2630",
+            "stock2": "2634",
+            "similarity_score": 0.653755870101512,
+            "group": "軍工"
+        },
+        {
+            "stock1": "2630",
+            "stock2": "6753",
+            "similarity_score": 0.6068601321432158,
+            "group": "軍工"
+        },
+        {
+            "stock1": "2634",
+            "stock2": "6829",
+            "similarity_score": 0.5782514142042874,
+            "group": "軍工"
+        },
+        {
+            "stock1": "2630",
+            "stock2": "8222",
+            "similarity_score": 0.5115831046478306,
+            "group": "軍工"
+        },
+        {
+            "stock1": "6753",
+            "stock2": "6829",
+            "similarity_score": 0.5071315459853145,
+            "group": "軍工"
+        },
+        {
+            "stock1": "2630",
+            "stock2": "6829",
+            "similarity_score": 0.4976636466313571,
+            "group": "軍工"
+        },
+        {
+            "stock1": "8222",
+            "stock2": "2634",
+            "similarity_score": 0.44128369469319106,
+            "group": "軍工"
+        },
+        {
+            "stock1": "8222",
+            "stock2": "6753",
+            "similarity_score": 0.42658138577019783,
+            "group": "軍工"
+        },
+        {
+            "stock1": "8222",
+            "stock2": "6829",
+            "similarity_score": 0.3781459449900633,
+            "group": "軍工"
+        }
+    ]
+}
